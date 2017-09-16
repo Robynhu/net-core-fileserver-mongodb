@@ -1,0 +1,13 @@
+#:C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.MicroService.FileServer\BT.MicroService.FileServer.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.MicroService.FileServer\BT.MicroService.FileServer.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\BT.Contracts.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.MicroService.FileServer\BT.MicroService.FileServer.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.CrossCutting.IoC\BT.CrossCutting.IoC.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.MicroService.FileServer\BT.MicroService.FileServer.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\BT.CrossCutting.Utils.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.CrossCutting.IoC\BT.CrossCutting.IoC.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\BT.Contracts.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.CrossCutting.IoC\BT.CrossCutting.IoC.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.Infra.Data\BT.Infra.Data.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.Infra.Data\BT.Infra.Data.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\BT.Contracts.xproj
+#:C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.Infra.Data\BT.Infra.Data.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.Infra.Data\BT.Infra.Data.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\BT.Contracts.xproj
+#:C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.CrossCutting.IoC\BT.CrossCutting.IoC.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.CrossCutting.IoC\BT.CrossCutting.IoC.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\BT.Contracts.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.CrossCutting.IoC\BT.CrossCutting.IoC.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.Infra.Data\BT.Infra.Data.xproj
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\src\BT.Infra.Data\BT.Infra.Data.xproj|C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\BT.Contracts.xproj

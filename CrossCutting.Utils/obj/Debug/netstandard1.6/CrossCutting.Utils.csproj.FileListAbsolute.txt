@@ -1,0 +1,17 @@
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\bin\Debug\netstandard1.6\BT.CrossCutting.Utils.deps.json
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\bin\Debug\netstandard1.6\BT.CrossCutting.Utils.dll
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\bin\Debug\netstandard1.6\BT.CrossCutting.Utils.pdb
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.csproj.CoreCompileInputs.cache
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.AssemblyInfoInputs.cache
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.AssemblyInfo.cs
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.dll
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.pdb
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\bin\Debug\netstandard1.6\CrossCutting.Utils.deps.json
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\bin\Debug\netstandard1.6\CrossCutting.Utils.dll
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\bin\Debug\netstandard1.6\CrossCutting.Utils.pdb
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.csprojResolveAssemblyReference.cache
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.csproj.CoreCompileInputs.cache
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.AssemblyInfoInputs.cache
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.AssemblyInfo.cs
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.dll
+C:\Users\robso\Documents\GitHub\net-core-fileserver-mongodb\CrossCutting.Utils\obj\Debug\netstandard1.6\CrossCutting.Utils.pdb

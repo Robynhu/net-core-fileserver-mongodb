@@ -1,0 +1,7 @@
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\bin\Release\netstandard1.6\BT.Contracts.deps.json
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\bin\Release\netstandard1.6\BT.Contracts.dll
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\bin\Release\netstandard1.6\BT.Contracts.pdb
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\BT.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\BT.Contracts.AssemblyInfo.cs
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\BT.Contracts.dll
+C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\BT.Contracts.pdb
