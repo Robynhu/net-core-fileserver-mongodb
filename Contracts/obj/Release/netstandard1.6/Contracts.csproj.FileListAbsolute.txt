@@ -1,8 +1,0 @@
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\bin\Release\netstandard1.6\Contracts.deps.json
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\bin\Release\netstandard1.6\Contracts.dll
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\bin\Release\netstandard1.6\Contracts.pdb
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\Contracts.csproj.CoreCompileInputs.cache
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\Contracts.AssemblyInfoInputs.cache
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\Contracts.AssemblyInfo.cs
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\Contracts.dll
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.Contracts\obj\Release\netstandard1.6\Contracts.pdb

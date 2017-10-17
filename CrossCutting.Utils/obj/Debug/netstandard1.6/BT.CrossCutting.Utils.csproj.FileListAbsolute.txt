@@ -1,9 +1,0 @@
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\bin\Debug\netstandard1.6\BT.CrossCutting.Utils.deps.json
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\bin\Debug\netstandard1.6\BT.CrossCutting.Utils.dll
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\bin\Debug\netstandard1.6\BT.CrossCutting.Utils.pdb
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.csprojResolveAssemblyReference.cache
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.csproj.CoreCompileInputs.cache
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.AssemblyInfoInputs.cache
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.AssemblyInfo.cs
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.dll
-C:\Users\robso\Source\Repos\brainy-microservice-fileserver\BT.CrossCutting.Utils\obj\Debug\netstandard1.6\BT.CrossCutting.Utils.pdb
