@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Contracts/bin
+/Contracts/obj
+/CrossCutting.Utils/bin
+/CrossCutting.Utils/obj
+/src/CrossCutting.IoC/bin
+/src/CrossCutting.IoC/obj
+/src/Infra.Data/bin
+/src/Infra.Data/obj
+/src/MicroService.FileServer/bin
+/src/MicroService.FileServer/obj
+/src/MicroService.FileServer/Properties/PublishProfiles
+/.gitlab-ci.yml
